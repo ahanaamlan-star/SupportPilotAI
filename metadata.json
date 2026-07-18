@@ -1,0 +1,6 @@
+{
+  "name": "SupportPilot AI",
+  "description": "An intelligent AI-powered customer support assistant with a modern glassmorphism dashboard, real-time support chat, ticket summarization, analytics, and knowledge base manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
