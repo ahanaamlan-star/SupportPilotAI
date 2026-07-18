@@ -26,7 +26,7 @@ Experience PrivacyLens AI directly in your browser.
 A complete walkthrough demonstrating the problem statement, solution architecture, offline AI inference, and all cybersecurity detection modules.
 
 **Watch the Demo:**  
-https://your-youtube-or-drive-link.com
+(https://drive.google.com/file/d/1wg_LXOBQxLAxKlOjcskNumPS1Bq_UcLY/view?usp=sharing)
 
 ---
 
