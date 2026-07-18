@@ -176,5 +176,3 @@ Enterprise support operations suffer from several acute pain points:
 ## 📄 License
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
----
-*Crafted with 💜 for the Google AI Studio Build hackathon.*
