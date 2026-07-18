@@ -11,7 +11,6 @@
 **SupportPilot AI** is a professional, high-fidelity, full-stack virtual support co-pilot designed to accelerate enterprise incident resolution, prevent SLA breaches, and automate repetitive customer support workflows. Supercharged with Gemini models via the Google GenAI SDK and engineered with a robust local-first persistence architecture, SupportPilot AI serves as the command center for enterprise support representatives.
 
 ---
----
 
 ## 🌐 Live Demo
 
